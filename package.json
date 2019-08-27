@@ -1,0 +1,15 @@
+{
+  "name": "parcel-dynamic-regex-import-workaround",
+  "scripts": {
+    "start": "parcel index.html"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.5.5",
+    "@babel/plugin-transform-runtime": "^7.5.5",
+    "babel-plugin-dynamic-import-node": "^2.3.0",
+    "parcel-bundler": "^1.12.3"
+  },
+  "dependencies": {
+    "@babel/runtime": "^7.5.5"
+  }
+}
